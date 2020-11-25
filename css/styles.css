@@ -1,6 +1,7 @@
 .row-header{
     margin: 0px uuto;
     padding: 0px auto;
+    
 }
 
 .row-content{
@@ -9,6 +10,14 @@
     border-bottom:1px ridge;
     min-height: 400px;
 }
+
+.row-pagetitle{
+    margin: 0px auto;
+    padding: 10px 0px 10px 0px;
+    border-bottom:1px ridge;
+    min-height: 70px;
+}
+
 
 .footer{
     background-color: #d1c4e9;
